@@ -31,7 +31,7 @@ A simple and interactive Quiz Application built with **HTML**, **CSS**, and **Ja
 ---
 
 ## 📂 Folder Structure
-
+```
 Quiz_App/
 ├── index.html
 ├── style.css
@@ -41,7 +41,7 @@ Quiz_App/
 │ ├── question-screen.png
 │ └── final-score.png
 └── README.md
-
+```
 
 ---
 
@@ -51,3 +51,4 @@ Quiz_App/
    ```bash
    git clone https://github.com/rashi311/Quiz_App.git
    cd Quiz_App
+2.Open index.html in your browser.   
