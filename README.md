@@ -15,7 +15,7 @@ A simple and interactive Quiz Application built with **HTML**, **CSS**, and **Ja
 ### Final Score Screen
 
 <p align="center">
-  <img src="Images/screenshot10.png" width="600" alt="Final Score Screen" />
+  <img src="Images/Screenshot10.png" width="600" alt="Final Score Screen" />
 </p>
 
 ---
@@ -47,8 +47,8 @@ Quiz_App/
 
 ## 📦 How to Run Locally
 
+```
 1. Clone the repository  
-   ```bash
    git clone https://github.com/rashi311/Quiz_App.git
    cd Quiz_App
 2.Open index.html in your browser.   
